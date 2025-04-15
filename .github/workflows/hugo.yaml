@@ -79,6 +79,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Create CNAME file for custom domain
+        run: echo "www.entintaverde.org" > ./public/CNAME
 
   # Deployment job
   deploy:
