@@ -22,8 +22,7 @@ Actualmente, desarrollo el proyecto Edén , una propuesta de ciudad verde que bu
 
 
 ### Proyecto Edén: ciudad verde en gestación
->  2021 – Actualidad
-
+>  2021 – Actualidad. 
 >>Desde la práctica, Edén se construye como un tejido de proyectos regenerativos: educativos, ecológicos, comunitarios y de conciencia.  
 Aquí, la sostenibilidad no es un objetivo, sino una forma de vida. La naturaleza no es un recurso, sino una maestra. Y la espiritualidad no es doctrina, sino conciencia encarnada. Este proyecto reúne los caminos que he recorrido y las semillas que sigo sembrando.
 >> - La Casa Común, como núcleo de convivencia, trabajo colectivo y regeneración del entorno.
