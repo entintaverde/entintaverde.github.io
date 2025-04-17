@@ -21,40 +21,40 @@ Después de percibir las grietas de un mundo que no sentía habitable, comencé 
 Actualmente, desarrollo el proyecto Edén , una propuesta de ciudad verde que busca habitar el ciclo vida-muerte-vida desde el juego, la calma, la práctica somática y la observación del cuerpo como territorio. Creo en la educación sin jerarquías, en el aprendizaje intuitivo y en la relación con la tierra como camino de retorno al hogar.
 
 
-## Proyecto Edén: ciudad verde en gestación
-### 2021 – Actualidad
+### Proyecto Edén: ciudad verde en gestación
+>  2021 – Actualidad
 
-Desde la práctica, Edén se construye como un tejido de proyectos regenerativos: educativos, ecológicos, comunitarios y de conciencia.
+>>Desde la práctica, Edén se construye como un tejido de proyectos regenerativos: educativos, ecológicos, comunitarios y de conciencia.
 
-- La Casa Común, como núcleo de convivencia, trabajo colectivo y regeneración del entorno.
-- Edén, como espacio de autoconocimiento.
-- Calendario 13 lunas 
+>>> - La Casa Común, como núcleo de convivencia, trabajo colectivo y regeneración del entorno.
+>>> - Edén, como espacio de autoconocimiento.
+>>> - Calendario 13 lunas 
  
-Aquí, la sostenibilidad no es un objetivo, sino una forma de vida. La naturaleza no es un recurso, sino una maestra. Y la espiritualidad no es doctrina, sino conciencia encarnada. Este proyecto reúne los caminos que he recorrido y las semillas que sigo sembrando.
+>> Aquí, la sostenibilidad no es un objetivo, sino una forma de vida. La naturaleza no es un recurso, sino una maestra. Y la espiritualidad no es doctrina, sino conciencia encarnada. Este proyecto reúne los caminos que he recorrido y las semillas que sigo sembrando.
 
-## Curander
-### Productora de Fermento de jengibre como alternativa de medicina lúdica 
-2024 - Actualidad
+### Curander
+> Productora de Fermento de jengibre como alternativa de medicina lúdica 
+>> 2024 - Actualidad
 
-## Casa AiiRo A.C 
-### Asistente y Acompañante personal
-Noviembre 2024 - Actualidad
+### Casa AiiRo A.C 
+> Asistente y Acompañante personal
+>> Noviembre 2024 - Actualidad
 
-## Germinados: alimento vivo
-### Acompañamiento familiar y venta en mercados orgánicos
-Marzo 2024 - Actualidad
+### Germinados: alimento vivo
+> Acompañamiento familiar y venta en mercados orgánicos
+>> Marzo 2024 - Actualidad
 
-## Pata de Perro
-### Curaduría y organización de antigüedades
-Octubre 2023 – Marzo 2024
+### Pata de Perro
+> Curaduría y organización de antigüedades
+>> Octubre 2023 – Marzo 2024
 
-## Bintech Solution
-### Gestión de proyectos y software
-Junio – Diciembre 2022
+### Bintech Solution
+> Gestión de proyectos y software
+>> Junio – Diciembre 2022
 
-## Mapfre Asistencia
-### Atención a emergencias y desarrollo operativo
-2016 – 2021
+### Mapfre Asistencia
+> Atención a emergencias y desarrollo operativo
+>> 2016 – 2021
 
 
 ## Estudio somático y conciencia encarnada
