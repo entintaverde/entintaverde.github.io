@@ -27,8 +27,8 @@ Actualmente, desarrollo el proyecto Edén , una propuesta de ciudad verde que bu
 >>Desde la práctica, Edén se construye como un tejido de proyectos regenerativos: educativos, ecológicos, comunitarios y de conciencia.
 >> - La Casa Común, como núcleo de convivencia, trabajo colectivo y regeneración del entorno.
 >> - Edén, como espacio de autoconocimiento.
->> - Calendario 13 lunas.  
->> Aquí, la sostenibilidad no es un objetivo, sino una forma de vida. La naturaleza no es un recurso, sino una maestra. Y la espiritualidad no es doctrina, sino conciencia encarnada. Este proyecto reúne los caminos que he recorrido y las semillas que sigo sembrando.
+>> - Calendario 13 lunas.
+>>Aquí, la sostenibilidad no es un objetivo, sino una forma de vida. La naturaleza no es un recurso, sino una maestra. Y la espiritualidad no es doctrina, sino conciencia encarnada. Este proyecto reúne los caminos que he recorrido y las semillas que sigo sembrando.
 
 ### Curander
 > Productora de Fermento de jengibre como alternativa de medicina lúdica 
