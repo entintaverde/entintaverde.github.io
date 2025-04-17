@@ -67,7 +67,6 @@ Este camino nutre la visión de Edén como una propuesta que parte de lo persona
 
 ## Maestría en Economía Circular y Sostenibilidad
 > 2022 – 2023 (trunca, sin título)
-
 >> Esta experiencia me permitió abrir la mirada hacia los sistemas y estructuras que sostenemos —y que nos sostienen—, me impulsó a buscar otras formas de habitar y construir comunidad. Decidí retirarme del camino académico formal para seguir profundizando desde la acción, el cuerpo y los procesos comunitarios vivos.
 
 
