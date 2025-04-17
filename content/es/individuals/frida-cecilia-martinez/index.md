@@ -26,9 +26,9 @@ Actualmente, desarrollo el proyecto Edén , una propuesta de ciudad verde que bu
 
 >>Desde la práctica, Edén se construye como un tejido de proyectos regenerativos: educativos, ecológicos, comunitarios y de conciencia.
 
->>> - La Casa Común, como núcleo de convivencia, trabajo colectivo y regeneración del entorno.
->>> - Edén, como espacio de autoconocimiento.
->>> - Calendario 13 lunas 
+>> - La Casa Común, como núcleo de convivencia, trabajo colectivo y regeneración del entorno.
+>> - Edén, como espacio de autoconocimiento.
+>> - Calendario 13 lunas 
  
 >> Aquí, la sostenibilidad no es un objetivo, sino una forma de vida. La naturaleza no es un recurso, sino una maestra. Y la espiritualidad no es doctrina, sino conciencia encarnada. Este proyecto reúne los caminos que he recorrido y las semillas que sigo sembrando.
 
@@ -68,9 +68,9 @@ Este camino nutre la visión de Edén como una propuesta que parte de lo persona
 
 
 ## Maestría en Economía Circular y Sostenibilidad
-#### 2022 – 2023 (trunca, sin título)
+> 2022 – 2023 (trunca, sin título)
 
-Esta experiencia me permitió abrir la mirada hacia los sistemas y estructuras que sostenemos —y que nos sostienen—, me impulsó a buscar otras formas de habitar y construir comunidad. Decidí retirarme del camino académico formal para seguir profundizando desde la acción, el cuerpo y los procesos comunitarios vivos.
+>> Esta experiencia me permitió abrir la mirada hacia los sistemas y estructuras que sostenemos —y que nos sostienen—, me impulsó a buscar otras formas de habitar y construir comunidad. Decidí retirarme del camino académico formal para seguir profundizando desde la acción, el cuerpo y los procesos comunitarios vivos.
 
 
 ### A las mentes inquietas y a los cuerpos cansados, construyamos el lugar que nos llame a Ser, desde cualquier espacio que nos permita sentirnos en un hogar.
