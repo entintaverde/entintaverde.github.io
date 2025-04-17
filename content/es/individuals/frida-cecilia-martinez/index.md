@@ -1,7 +1,7 @@
 ---
 title: "Dedicada al Ser siendo: contemplación de la existencia a través de la naturaleza."
 author: "Frida Martinez"
-date: 2025-04-16 T19:41:34-06:00
+date: 2025-04-16T19:41:34-06:00
 draft: false
 omit_header_text: true
 featured_image: ""
